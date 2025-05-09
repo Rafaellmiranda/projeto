@@ -83,8 +83,10 @@ header {
     text-align: center;
     padding-top: 40px;
 }
-
-header > h1 {
+/*
+Esse header > h1 é o título
+*/
+header > h1 { 
     color: white;
     font-family:  var(--fonte-destaque);
     font-size: 3em;
